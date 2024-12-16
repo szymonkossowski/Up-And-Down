@@ -19,3 +19,9 @@ Java SDK, minimum Java 11
 2. Apache OpenNLP for NLP tasks
 3. JSoup for web scrapping
 4. DOM Parser for exporting to XML
+
+## Authors
+* Hyunjoo Cho (@annettehjc)[https://github.com/annettehjc]
+* Lina M. Longar (@linalongar)[https://github.com/linalongar]
+* Nikita L. Beklemishev (@lilovyjgrib)[https://github.com/lilovyjgrib]
+* Szymon T. Kossowski (@szymonkossowski)[https://github.com/szymonkossowski]
